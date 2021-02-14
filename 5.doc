@@ -1,0 +1,9 @@
+5) What is "nohup" used for?
+
+A) nohup is a POSIX (Portable Operating System Interface) command to ignore the HUP (hangup) signal. The HUP signal is, by convention, the way a terminal warns dependent processes of logout.
+Output that would normally go to the terminal goes to a file called nohup.out if it has not already been redirected.
+In short, it stands for no hang up.
+In other words, Nohup is a command used to run a process(job) on a server and have it continue after you have logged out or otherwise lost connection to the server. Nohup is best suited for long job runs.
+
+
+

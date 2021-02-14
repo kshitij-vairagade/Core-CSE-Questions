@@ -1,0 +1,20 @@
+3) What is the difference between a process and a thread?
+
+A) Process =>
+A process is an active program i.e. a program that is under execution. It is more than the program code as it includes the program counter, process stack, registers, program code etc. Compared to this, the program code is only the text section.
+
+Thread =>
+A thread is a lightweight process that can be managed independently by a scheduler. It improves the application performance using parallelism. A thread shares information like data segment, code segment, files etc. with its peer threads while it contains its own registers, stack, counter etc.
+
+Key difference =>
+
+1. Process means a program is in execution, whereas Thread means a segment of a process.
+2. A Process is not Lightweight, whereas Threads are Lightweight.
+3. A Process takes more time to terminate, and Thread takes less time to terminate.
+4. Process takes more time for creation, whereas Thread takes less time for creation.
+5. Process likely takes more time for context switching whereas as Threads takes less time for context switching.
+6. A Process is mostly isolated, whereas Threads share memory.
+7. Process does not share data, and Threads share data with each other.
+
+
+

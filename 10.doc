@@ -1,0 +1,10 @@
+10) Differentiate between multithreading and asynchronous.
+
+A) Multithreading Environment =>
+In a multi-threaded environment, many individual threads of programming are running at the same time. (Depending upon the number of CPUs and the support of the operating system, this may be literally true, or it may be an illusion created by sophisticated scheduling algorithms). For this reason, multi-threaded environments are difficult and involve issues of threads locking each other’s memory to prevent them from overrunning one another.
+
+Asynchronous Environment =>
+In an asychronous environment, a single process thread runs all the time, but it may, for event-driven reasons (and that is the key), switch from one function to another. When an event happens, and when the currently running process hits a point at which it must wait for another event, the javascript core then scans its list of events and delivers the next one, in a (formally) indeterminate (but probably deterministic) order, to the event manager.
+
+
+

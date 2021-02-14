@@ -1,0 +1,11 @@
+7) What Unix/Linux commands will alter a files ownership, files permissions?
+
+A) To change file and directory permissions, we can use the command "chmod" (change mode). The owner of a file can change the permissions for user (u), group (g), or others (o) by adding (+) or subtracting (-) the read, write, and execute permissions.
+
+Linux divides the file permissions into read, write and execute denoted by r,w, and x.
+The permissions on a file can be changed by "chmod" command which can be further divided into Absolute and Symbolic mode.
+The "chown" command can change the ownership of a file/directory. Use the following commands: chown user file or chown user:group file.
+The "chgrp" command can change the group ownership chrgrp group filename.
+
+
+

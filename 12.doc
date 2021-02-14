@@ -1,0 +1,23 @@
+12) How do you stop a DDoS attack?
+
+A) DDoS is short for Distributed Denial of Service. The primary purpose of a DDoS attack is to simply overwhelm your web server and either cripple it or take it down. One of the frustrating things with these types of attack is generally the attacker doesn’t gain anything and typically nothing is hacked.
+
+Here are 5 tips for DDoS Attack prevention.
+
+1. Organize a DDoS Attack Response Plan. Don’t be caught blindsided by DDoS attacks; have a response plan ready in case of a security breach so your organization can respond as promptly as possible. Your plan should document how to maintain business operations if a DDoS attack is successful, any technical competencies and expertise that will be necessary, and a systems checklist to ensure that your assets have advanced threat detection.
+Additionally, establish an incident response team in case the DDoS is successful and define responsibilities, such as notifying key stakeholders and ensuring communication throughout the organization.
+
+2. Secure your Infrastructure with DDoS Attack Prevention Solutions. Equip your network, applications, and infrastructure with multi-level protection strategies. This may include prevention management systems that combine firewalls, VPN, anti-spam, content filtering and other security layers to monitor activities and identity traffic inconsistencies that may be symptoms of DDoS attacks.
+If you’re looking for protection by leveraging cloud-based solutions, many providers allow for advanced protection resources for additional charges. Other options allow for businesses to go “full cloud,” entrusting sensitive data with a reputable cloud provider that offers heightened security protocols, both virtual and physical.
+
+3. Perform a Network Vulnerability Assessment. Identify weakness in your networks before a malicious user does. A vulnerability assessment involves identifying security exposures so you can patch up your infrastructure to be better prepared for a DDoS attack, or for any cybersecurity risks in general.
+Assessments will secure your network by trying to find security vulnerabilities. This is done by taking inventory of all devices on the network, as well as their purpose, system information, and any vulnerabilities associated with them, and including what devices need to be prepared for upgrades or future assessments. Doing so will help define your organization’s level of risk so you can optimize any security investments.
+
+4. Identify Warning Signs of a DDoS Attack. If you can identify the symptoms of a DDoS attack as early as possible, you can take action and hopefully mitigate damage. Spotty connectivity, slow performance, and intermittent web crashes are all signs that your business may be coming under attack from a DDoS criminal. Educate your team on signs of DDoS attacks so everyone can be alert for warning signs.
+Not all DDoS attacks are extensive and high volume; low-volume attacks that launch for short durations are just as common. These attacks can be particularly nefarious because they are more likely to go under the radar as just a random incident rather than a potential security breach. Low-volume DDoS attacks are likely distractions for damaging malware; while your IT security staff is distracted by a low-volume attack, malicious software like ransomware can infiltrate your network.
+
+5. Adopt Cloud-Based Service Providers. There are several benefits to outsourcing DDoS attack prevention to the cloud.
+Cloud providers who offer high levels of cybersecurity, including firewalls and threat monitoring software, can help protect your assets and network from DDoS criminals. The cloud also has greater bandwidth than most private networks, so it is likely to fail if under the pressure of increased DDoS attacks.
+
+
+

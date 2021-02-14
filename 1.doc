@@ -1,0 +1,12 @@
+Q 1) What is the similarity between "ping" & "traceroute" ?
+
+A) Ping and Traceroute are one of the most common programs that can be used to test your internet connection and help you diagnose congestion between your computer and the destination server you’re trying to reach. In short we can test the internet using these 2 programs.
+
+Sometimes, when you send or receive data over the internet you experience timeouts, or a web server may be down, which prevents you from accessing services and websites. There are two common programs that can be used to test your internet connection and even help you diagnose congestion between your computer (your ISP) and the destination server you’re trying to reach. The programs which are used are known as Ping and Traceroute.
+
+The main similarity between Ping and Traceroute commands is that Ping is quick and is the easiest way to tell you if the destination server is online and estimates how long it takes to send and receive data to the destination. Whereas Traceroute tells you the exact route you take to reach the server from your computer (ISP) and how long each hop takes.
+
+(Hop : In wired computer networking, including the Internet, a hop occurs when a packet is passed from one network segment to the next. Data packets pass through routers as they travel between source and destination.)
+
+
+

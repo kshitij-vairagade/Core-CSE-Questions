@@ -1,0 +1,20 @@
+8) What is Transaction?. Explain how transaction happens in mongodb and
+postgresql.
+
+A) An operation on a single document is atomic. With distributed transactions, transactions can be used across multiple operations, collections, databases, documents, and shards.
+
+Transaction In mongo DB- For situations that require atomicity of reads and writes to multiple documents (in a single or multiple collections), MongoDB supports multi-document transactions. With distributed transactions, transactions can be used across multiple operations, collections, databases, documents, and shards.
+Transaction in Postgres sql - Properties of Transactions
+Transactions have the following four standard properties, usually referred to by the acronym ACID −
+•   Atomicity − Ensures that all operations within the work unit are completed successfully; otherwise, the transaction is aborted at the point of failure and previous operations are rolled back to their former state.
+•	Consistency − Ensures that the database properly changes states upon a successfully committed transaction.
+•	Isolation − Enables transactions to operate independently of and transparent to each other.
+•	Durability − Ensures that the result or effect of a committed transaction persists in case of a system failure.
+Transaction Control
+The following commands are used to control transactions −
+•	BEGIN TRANSACTION − To start a transaction.
+•	COMMIT − To save the changes, alternatively you can use END TRANSACTION command.
+•	ROLLBACK − To roll back the changes.
+
+
+
